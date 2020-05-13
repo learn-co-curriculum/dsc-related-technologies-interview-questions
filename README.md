@@ -1,1 +1,2 @@
-# dsc-related-technologies-interview-questions
+# Technical Skills in Interviews: related technologies
+
